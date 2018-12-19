@@ -1,6 +1,6 @@
-#Search Engine
+# Search Engine
 
-*Partner project for CS180 at Purdue*
+**Partner project for CS180 at Purdue**
 
 *Made in collaboration with*
 [Columbus Holt](mailto:columbus@purdue.edu)

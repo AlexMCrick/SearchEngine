@@ -2,7 +2,7 @@
 
 *Partner project for CS180 at Purdue*
 
-*Made in collaboration with Columbus Holt*
+*Made in collaboration with*
 [Columbus Holt](mailto:columbus@purdue.edu)
 
 This search Engine uses the JSoup library to connect to the internet
